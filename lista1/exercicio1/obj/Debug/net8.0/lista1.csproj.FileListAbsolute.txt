@@ -1,0 +1,15 @@
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\bin\Debug\net8.0\lista1.exe
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\bin\Debug\net8.0\lista1.deps.json
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\bin\Debug\net8.0\lista1.runtimeconfig.json
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\bin\Debug\net8.0\lista1.dll
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\bin\Debug\net8.0\lista1.pdb
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\lista1.AssemblyInfoInputs.cache
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\lista1.AssemblyInfo.cs
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\lista1.csproj.CoreCompileInputs.cache
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\lista1.sourcelink.json
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\lista1.dll
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\refint\lista1.dll
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\lista1.pdb
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\lista1.genruntimeconfig.cache
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista1\exercicio1\obj\Debug\net8.0\ref\lista1.dll
