@@ -1,0 +1,5 @@
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista3\obj\Debug\net8.0\lista3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista3\obj\Debug\net8.0\lista3.AssemblyInfoInputs.cache
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista3\obj\Debug\net8.0\lista3.AssemblyInfo.cs
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista3\obj\Debug\net8.0\lista3.csproj.CoreCompileInputs.cache
+C:\Users\Elizete Sampaio\Desktop\Programacao-Procedural\lista3\obj\Debug\net8.0\lista3.sourcelink.json
