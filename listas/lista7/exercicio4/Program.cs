@@ -1,29 +1,31 @@
 ﻿using System;
 using System.Reflection.PortableExecutable;
+using System.Runtime.InteropServices;
 public class Program
 {
     static void preencherVetor(int[] vagao)
     {
-        for(int peso = 0; peso < 4; peso++)
+        for (int peso = 0; peso < 12; peso++)
         {
             vagao[peso] = int.Parse(Console.ReadLine());
         }
     }
-    static string verificacao(int peso)
+    static string verificacao(int[]vagao)
     {
-        if(peso > 50)
+        for (int contador = 0; contador < 12; contador++)
         {
-        System.Console.WriteLine("o vagão ultrapassou o limite de peso");
+                int passoudopeso = vagao[contador];
+            if (passoudopeso > 50)
+            {
+                System.Console.WriteLine("o " + (contador+1) + "vagão ultrapassou o limite de peso");
+            }
         }
-        return "";
+        return null;
     }
     static void Main(string[] args)
-    { 
-        int[] vagao = new int [12];
+    {
+        int[] vagao = new int[12];
         preencherVetor(vagao);
-        for(int contador = 0; contador < 4; contador++)
-        {
-        System.Console.WriteLine(verificacao(vagao[contador]));
-        }
+        System.Console.WriteLine(verificacao(vagao));
     }
 }
